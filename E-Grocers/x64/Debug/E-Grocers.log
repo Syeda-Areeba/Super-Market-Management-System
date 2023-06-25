@@ -1,0 +1,22 @@
+﻿  Interface.cpp
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Cart.h(37,27): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Cart.h(64,27): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Payment.h(53,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Transportation.h(118,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Helper_functions.h(64,25): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Helper_functions.h(200,26): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Helper_functions.h(225,25): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Helper_functions.h(482,25): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Admin.h(73,26): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Admin.h(131,26): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Interface.cpp(124,14): warning C4930: 'Feedback ratings(void)': prototyped function not called (was a variable definition intended?)
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Helper_functions.h(163): warning C4715: 'Search': not all control paths return a value
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Helper_functions.h(214): warning C4715: 'Purchased': not all control paths return a value
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Helper_functions.h(315): warning C4715: 'Category': not all control paths return a value
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Helper_functions.h(490): warning C4715: 'update_feedback': not all control paths return a value
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Customer.h(193): warning C4715: 'Customer::registration_validation': not all control paths return a value
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Customer.h(168): warning C4715: 'Customer::login_validation': not all control paths return a value
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Customer.h(218): warning C4715: 'Customer::give_feedback': not all control paths return a value
+D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\E-Grocers\Order.h(69): warning C4715: 'Order::confirm_order': not all control paths return a value
+Interface.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  E-Grocers.vcxproj -> D:\BS(AI)\sem 2\OOP\OOP final project\E-Grocers\E-Grocers\x64\Debug\E-Grocers.exe
